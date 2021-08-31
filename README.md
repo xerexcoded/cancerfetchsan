@@ -2,7 +2,7 @@
 
 Sys Fetch program in rust and fun ofc
 
-
+needs rustc 1.54 or above for sysinfo
 
  
 
