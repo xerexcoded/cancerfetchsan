@@ -1,6 +1,6 @@
 # cancerfetchsan
 
-###Sys Fetch program in rust and fun ofc
+Sys Fetch program in rust and fun ofc
 
 
 
