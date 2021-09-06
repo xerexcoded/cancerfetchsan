@@ -5,8 +5,8 @@ Sys Fetch program in rust and fun ofc
 needs rustc 1.54 or above for sysinfo
 
 ## HoW iT LookS : 
-![](![](https://github.com/xerexcoded/cancerfetchsan/blob/main/Screenshot-2021-09-07_01:34:51.png)
-)
+![](https://github.com/xerexcoded/cancerfetchsan/blob/main/Screenshot-2021-09-07_01:34:51.png)
+
 
 ## iT doesN't :
 
